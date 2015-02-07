@@ -11,9 +11,9 @@
     ],
     "require": {
         "php": ">=5.3.0",
-        "illuminate/support": "~4",
+        "illuminate/support": "~5",
         "doctrine/dbal": "~2.3",
-        "way/generators": "1.x"
+        "way/generators": "3.x"
     },
     "autoload": {
         "psr-0": {
